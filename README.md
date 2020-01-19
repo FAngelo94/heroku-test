@@ -14,4 +14,4 @@ After this, open a terminal and use the following commands:
 * heroku open (open a browser page in the url your server application was deployed)
 
 ## My project deployed
-Here you can see my project deployed on Heroku: https://sleepy-plains-69190.herokuapp.com/
+Here you can see my project deployed on Heroku (not visible because after 30 minutes of inactivity it becomes unavailable for the free version): https://sleepy-plains-69190.herokuapp.com/
