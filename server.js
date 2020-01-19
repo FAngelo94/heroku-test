@@ -17,11 +17,11 @@ app.use(function (req, res, next) {
 const json = JSON.stringify({prova:"test"})
 
 app.get('/get/', (req, res, next) => {
-  return res.send(json);
+  res.send('GET');
 });
 
 app.get('/', (req, res) => {
-  res.send('Ciao mondo as\n');
+  res.send('Hello World\n');
 });
 
 app.listen(PORT, HOST);
