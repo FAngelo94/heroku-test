@@ -12,3 +12,6 @@ After this, open a terminal and use the following commands:
 * heroku create (this command create an heroku app on the heroku website)
 * git push heroku master (deploy online the application you have in branch master online on github)
 * heroku open (open a browser page in the url your server application was deployed)
+
+## My project deployed
+Here you can see my project deployed on Heroku: https://sleepy-plains-69190.herokuapp.com/
